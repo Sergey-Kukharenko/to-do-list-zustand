@@ -1,0 +1,16 @@
+.wrapper {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  flex-direction: column;
+  gap: 16px;
+  height: 100vh;
+}
+
+.card div {
+  width: 300px;
+  display: flex;
+  align-items: center;
+  gap: 8px;
+  padding: 16px;
+}
